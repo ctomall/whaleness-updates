@@ -1,0 +1,25 @@
+{
+    "schemaVersion":  1,
+    "version":  "1.0.0",
+    "versionCode":  1,
+    "packageName":  "com.clarklevis.whaleness",
+    "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.0/Whaleness-1.0.0-arm64-v8a.apk",
+    "size":  60282760,
+    "sha256":  "0be7e211d2ce57690b51a1be847d5eb3edfd33f65f6b4cfb84dfbeca624f1445",
+    "releaseNotes":  "Whaleness 独立版首个版本：全新签名/证书、新包名、本地 Agent（BYOK + 工具 + 流式）、公网 OTA。",
+    "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.0/Whaleness-1.0.0-arm64-v8a.apk",
+    "abiApks":  {
+                    "arm64-v8a":  {
+                                      "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.0/Whaleness-1.0.0-arm64-v8a.apk",
+                                      "size":  60282760,
+                                      "sha256":  "0be7e211d2ce57690b51a1be847d5eb3edfd33f65f6b4cfb84dfbeca624f1445",
+                                      "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.0/Whaleness-1.0.0-arm64-v8a.apk"
+                                  },
+                    "x86_64":  {
+                                   "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.0/Whaleness-1.0.0-x86_64.apk",
+                                   "size":  62805891,
+                                   "sha256":  "10a7c6728df4f9fe34f8160881dd572323b3cc86cf66ec1e29cd3abf8a17a823",
+                                   "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.0/Whaleness-1.0.0-x86_64.apk"
+                               }
+                }
+}
