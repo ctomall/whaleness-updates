@@ -1,25 +1,25 @@
 {
-    "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.60/Whaleness-1.0.60-arm64-v8a.apk",
-    "releaseNotes":  "新增 SFTP 文件浏览：列目录、进子目录、文本预览、上传。",
-    "size":  61106204,
-    "version":  "1.0.60",
+    "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.61/Whaleness-1.0.61-arm64-v8a.apk",
+    "releaseNotes":  "新增 WebDAV 网络存储：账号管理、目录浏览、文本预览、上传。",
+    "size":  61122584,
+    "version":  "1.0.61",
     "packageName":  "com.clarklevis.whaleness",
-    "sha256":  "1aedf8ca56548aafedc54783be0228389baba26b972dd2a43d06e33ad7f163d6",
+    "sha256":  "dca5934c11f5488c825c40222a50255cf785d23cb5e74e5315c95879490903da",
     "abiApks":  {
                     "arm64-v8a":  {
-                                      "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.60/Whaleness-1.0.60-arm64-v8a.apk",
-                                      "size":  61106204,
-                                      "sha256":  "1aedf8ca56548aafedc54783be0228389baba26b972dd2a43d06e33ad7f163d6",
-                                      "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.60/Whaleness-1.0.60-arm64-v8a.apk"
+                                      "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.61/Whaleness-1.0.61-arm64-v8a.apk",
+                                      "size":  61122584,
+                                      "sha256":  "dca5934c11f5488c825c40222a50255cf785d23cb5e74e5315c95879490903da",
+                                      "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.61/Whaleness-1.0.61-arm64-v8a.apk"
                                   },
                     "x86_64":  {
-                                   "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.60/Whaleness-1.0.60-x86_64.apk",
-                                   "size":  63629335,
-                                   "sha256":  "a34ba0c5e60bdf1228ce276c3a1fd7f3b16cf6e5d36d8a7323d4c7254aa757fa",
-                                   "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.60/Whaleness-1.0.60-x86_64.apk"
+                                   "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.61/Whaleness-1.0.61-x86_64.apk",
+                                   "size":  63645715,
+                                   "sha256":  "ce41fc64f9bc538b517167096c3d20f8d2b0c761db8296464fac35e02ea81827",
+                                   "downloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.61/Whaleness-1.0.61-x86_64.apk"
                                }
                 },
-    "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.60/Whaleness-1.0.60-arm64-v8a.apk",
-    "versionCode":  61,
+    "githubDownloadUrl":  "https://github.com/ctomall/whaleness-updates/releases/download/v1.0.61/Whaleness-1.0.61-arm64-v8a.apk",
+    "versionCode":  62,
     "schemaVersion":  1
 }
